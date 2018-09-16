@@ -100,7 +100,8 @@ class App extends Component {
       ))}
       </main>
       <footer className='footer'>
-
+        <p>Created by Josh Willems 2018</p>
+        <a href='https://github.com/jscottwillems' target='blank'>Github</a>
       </footer>
       </div>
     )

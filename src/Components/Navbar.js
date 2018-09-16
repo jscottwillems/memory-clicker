@@ -6,7 +6,7 @@ const Navbar = (props) => (
         <ul>
             <li><b>Pokemon Memory Click</b></li>
             <li>{props.message}</li>
-            <li>Score: {props.score} | Hi-Score: {props.hiScore}</li>
+            <li><b>Score: {props.score} | Hi-Score: {props.hiScore}</b></li>
         </ul>
     </nav>
 )
