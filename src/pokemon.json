@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu",
+        "image": "/assets/imgs/pikachu.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Bulbasaur",
+        "image": "/assets/imgs/bulbasaur.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Butterfree",
+        "image": "/assets/imgs/butterfree.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "image": "/assets/imgs/charmander.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Gastly",
+        "image": "/assets/imgs/gastly.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Geodude",
+        "image": "/assets/imgs/geodude.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Hitmonchan",
+        "image": "/assets/imgs/hitmonchan.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Jiggleypuff",
+        "image": "/assets/imgs/jiggleypuff.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Magnemite",
+        "image": "/assets/imgs/magnemite.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Pidgey",
+        "image": "/assets/imgs/pidgey.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Slowpoke",
+        "image": "/assets/imgs/slowpoke.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Squirtle",
+        "image": "/assets/imgs/squirtle.jpeg"
+    }
+]
